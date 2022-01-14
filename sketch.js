@@ -660,7 +660,7 @@ fireing.setVolume(0.3);
       if (xe2 < 0){
         et = 0;
           }
-      if (xe2 > 49){
+      if (xe2 > 150){
         et = 1;
       }
       
