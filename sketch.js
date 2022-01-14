@@ -699,7 +699,7 @@ fireing.setVolume(0.3);
    setTimeout(clearSecond, 1000);
      
      // sets enemy 3 hp
-     ehp = 10;
+     ehp = 100;
      
      
      //incrament to next time stamp
