@@ -330,7 +330,7 @@ function draw() {
    
    //increases the enumb by one and sets enemy hp
    if (enumb == 0){
-     ehp = 10;
+     ehp = 1;
      enumb = enumb + 1;
    } 
    
@@ -448,7 +448,7 @@ fireing.setVolume(0.3);
      setTimeout(clearFirst, 1000);
      
      // sets enemy 2 hp
-      ehp = 50;
+      ehp = 1;
      
      
      //incrament to next time stamp
